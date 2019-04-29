@@ -2,6 +2,7 @@
 
 - SR300 description link: https://store.intelrealsense.com/buy-intel-realsense-developer-kit-sr300.html
 - Holding plate link: [STL](mesh/holder.STL), [Solidworks](mesh/holder.SLDPRT)
+- 3D print tips: rotate 180 degree to print
 
 ![](fig/1.jpg)
 ![](fig/2.jpg)
